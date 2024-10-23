@@ -32,7 +32,6 @@ export default function Randomquotes() {
         }
     }
     
-
    
 
     return (
